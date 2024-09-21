@@ -120,3 +120,4 @@ triangleInv();
 triangleInvNum();
 triangleTri();
 triangleTriInv();
+//Other patterns were similar to above ones. so skipping it. 
